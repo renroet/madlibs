@@ -1,0 +1,16 @@
+form {
+    width: 400px
+}
+
+form div {
+    display: flex;
+    margin-bottom: 10px
+}
+
+label {
+    flex: 1.5;
+    font-size: larger;  
+}
+.answers {
+    flex: 2.5
+}
